@@ -1,1 +1,0 @@
-<a href='./material/bighead/05.php' id='a05'><img src="./material/images/d2sub7_05.gif" width="251" height="289" alt="廚房"></a>

@@ -1,1 +1,0 @@
-<a href='./material/images2/03.php' id='a03'><img src="./material/bighead/d2sub7_03.jpg" width="278" height="126" alt="臥室"></a>

@@ -1,1 +1,0 @@
-﻿<a href='./material/images/03.php' id='a03'><img src="./material/imagesoff/d2sub7_03.gif" width="278" height="126" alt="臥室"></a>
